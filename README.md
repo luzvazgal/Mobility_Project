@@ -6,6 +6,7 @@ In order to visualize results, you need to run the project as follows:
 Cleansing
 Analysis
 Delta Traffic Analysis
+Delta Traffic Heat Map
 Statistics
 
 Cleansing
@@ -19,6 +20,9 @@ It also creates data frame of the routes having more traffic of the survey (9 ro
 
 Delta Traffic Analysis
 Getting clean data set to narrow search to people traveling from Mexico City or State of Mexico, and using Analysis Dataframe to get the most important routes to get Google real time traffic information
+
+Delta Traffic Heat Map
+Getting lat and lng data from the cities to make heat-map graphics and markers to identify graphically the origin and destination points
 
 Statistics
 Showing normal distribution, mean, median, mode of all trip duration time coming from survey
