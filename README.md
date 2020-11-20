@@ -26,5 +26,7 @@ Getting lat and lng data from the cities to make heat-map graphics and markers t
 
 Statistics
 Showing normal distribution, mean, median, mode of all trip duration time coming from survey
-Showing behavior for real time traffic information 
+Showing behavior for real time traffic information
+
+[See presentation](https://prezi.com/view/WgRzqczZ4qu9TYjAfyKt/) (to see need a prezi account)
  
